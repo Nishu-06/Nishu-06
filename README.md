@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/3945290/screenshots/14063647/media/39906ed147fb047eba79dc8bf99c00dd.gif)](https://Nishu-06.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Nishu-06.io)
 <h1 align="center">Hi 👋, I'm Nishu Kumari</h1>
 <h3 align="center">An Aspiring Web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
