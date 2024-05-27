@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Wanderers Hub**
 
-- 🌱 I’m currently learning **Node.js,Express.js,React.js,MongoDB,Tailwind.wind**
+- 🌱 I’m currently learning **Node.js,Express.js,node:ejs,React.js,MongoDB,Tailwind.wind**
 
 - 📫 How to reach me **kumarinishu407@gmail.com**
 
