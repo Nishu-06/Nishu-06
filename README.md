@@ -5,30 +5,75 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishu-06&label=Profile%20views&color=0e75b6&style=flat" alt="nishu-06" /> </p>
-## 🌱 Skills
 
-### Languages
-- Java
-- JavaScript
-- Python
-- SQL
-### Frameworks
-- React
-- Node.js
-- Express.js
-- Bootstrap
-- Tailwind CSS
-### Databases
-- MongoDB
-- MySQL
-### Tools
-- GitBash
-- GitHub
-- GitHub Desktop
-- Hoppscotch
-- VSCode
-#### Template Engine- EJS
+##  Skills
+
+<div align="center">
+  
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Databases</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>Bootstrap</li>
+        <li>Tailwind CSS</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <th>Template Engine</th>
+    <th>Layout Systems</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>GitBash</li>
+        <li>GitHub</li>
+        <li>GitHub Desktop</li>
+        <li>Hoppscotch</li>
+        <li>VSCode</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>EJS</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Flex</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 - 📫 How to reach me **kumarinishu407@gmail.com**
+- <a href="https://www.linkedin.com/in/nishu-kumari-5b4b61266/">Linkedin</a>
 
 
 
