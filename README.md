@@ -5,11 +5,29 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishu-06&label=Profile%20views&color=0e75b6&style=flat" alt="nishu-06" /> </p>
+## 🌱 Skills
 
-- 🔭 I’m currently working on **Wanderers Hub**
-
-- 🌱 I’m currently learning **Node.js,Express.js,node:ejs,React.js,MongoDB,Tailwind.wind**
-
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+### Frameworks
+- React
+- Node.js
+- Express.js
+- Bootstrap
+- Tailwind CSS
+### Databases
+- MongoDB
+- MySQL
+### Tools
+- GitBash
+- GitHub
+- GitHub Desktop
+- Hoppscotch
+- VSCode
+#### Template Engine- EJS
 - 📫 How to reach me **kumarinishu407@gmail.com**
 
 
