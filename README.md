@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE @ Vellore institute of technology (CGPA: 8.71)
+- 🎓 B.Tech CSE @ Vellore institute of technology (CGPA: 8.81)
 - 💻 Passionate about Backend Development & Scalable Systems
 - 🧠 Strong in Data Structures and Algorithms
 - 🤖 Working on Generative AI, RAG & LLM-powered Applications
